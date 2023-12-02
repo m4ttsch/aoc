@@ -1,0 +1,17 @@
+{
+  "name": "aoc",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "tsx --test",
+    "test:watch": "tsx --test --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.10.1",
+    "tsx": "^4.6.1",
+    "typescript": "^5.3.2"
+  }
+}
